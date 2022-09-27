@@ -5,7 +5,7 @@
 ## Skills: Javascript, Html, Css
 ```
 function pattern(n){
- return n < 1 ? "" : Array.from({length:n}, (v,k)=>(k+1).toString().repeat(k+1)).join('\n')
+ return n < 1 ? "" : Array.from({length:n}, (v,k)=&gt;(k+1).toString().repeat(k+1)).join('\n')
 }
 ```
 link: https://www.codewars.com/kata/5572f7c346eb58ae9c000047/javascript
