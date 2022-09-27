@@ -1,3 +1,3 @@
-# rsschool-cv
+# rsschool-cv-html
 
-https://webmisfit.github.io/rsschool-cv/cv
+https://webmisfit.github.io/rsschool-cv/
